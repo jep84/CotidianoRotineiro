@@ -1,4 +1,6 @@
 #!/bin/bash
+# Find duplicate IP address in the network
+#
 
 if [ $# -eq 0 ]
 then
